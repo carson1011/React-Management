@@ -2,7 +2,8 @@ import './App.css';
 import {Component} from "react";
 import Customer from "./components/Customer";
 const cu={
-  'id':2
+  'id':2,
+  'name' : 'ff'
 }
 const customers =[
   {
