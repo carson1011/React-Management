@@ -1,7 +1,9 @@
 import './App.css';
 import {Component} from "react";
 import Customer from "./components/Customer";
-
+const cu={
+  'id':2
+}
 const customers =[
   {
     'id':1,
