@@ -1,7 +1,6 @@
 import './App.css';
 import {Component} from "react";
 import Customer from "./components/Customer";
-
 const customers =[
   {
     'id':1,
